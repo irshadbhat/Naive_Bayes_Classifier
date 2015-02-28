@@ -2,7 +2,7 @@
 
 Implementation of Multinomial Naive Bayes and Gaussian Naive Bayes:
 
-Examples:
+Example:
 =========
 
     >>> import NaiveBayes as nb
